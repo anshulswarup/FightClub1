@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "170956075777",
+    "firebase_url": "https://project-366378921237533093.firebaseio.com",
+    "project_id": "project-366378921237533093",
+    "storage_bucket": "project-366378921237533093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170956075777:android:975deb62ce9b93a9",
+        "android_client_info": {
+          "package_name": "com.example.android.fightclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170956075777-pqk498uei29tutf4qcd2kgvt4e9fa48b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVX8d1_tgaaPoq7iOBcdEqfJUWw7bZug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
